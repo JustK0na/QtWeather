@@ -1,0 +1,8 @@
+# ninja log v6
+0	17	1741960533657548123	QtWeather_autogen/timestamp	3df1854ffc47b8c6
+0	17	1741960533657548123	QtWeather_autogen/mocs_compilation.cpp	3df1854ffc47b8c6
+0	17	1741960533657548123	/home/ai-things/CLionProjects/QtWeather/cmake-build-debug/QtWeather_autogen/timestamp	3df1854ffc47b8c6
+0	17	1741960533657548123	/home/ai-things/CLionProjects/QtWeather/cmake-build-debug/QtWeather_autogen/mocs_compilation.cpp	3df1854ffc47b8c6
+17	26	1741960533659548231	CMakeFiles/QtWeather.dir/QtWeather_autogen/mocs_compilation.cpp.o	991d24c9ca8c96ee
+17	1412	1741960533659548231	CMakeFiles/QtWeather.dir/main.cpp.o	c58cd61ba04b116e
+1412	1639	1741960535054623392	QtWeather	6a962c04abd31338

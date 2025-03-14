@@ -1,0 +1,5 @@
+/home/ai-things/CLionProjects/QtWeather/cmake-build-debug/CMakeFiles/QtWeather.dir
+/home/ai-things/CLionProjects/QtWeather/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ai-things/CLionProjects/QtWeather/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ai-things/CLionProjects/QtWeather/cmake-build-debug/CMakeFiles/QtWeather_autogen_timestamp_deps.dir
+/home/ai-things/CLionProjects/QtWeather/cmake-build-debug/CMakeFiles/QtWeather_autogen.dir
